@@ -1,0 +1,35 @@
+<?php
+
+/**
+ * @file
+ * Contains dj_normalizer.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function dj_normalizer_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the dj_normalizer module.
+    case 'help.page.dj_normalizer':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Normalizer for Rock Hall JSON') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function dj_normalizer_theme() {
+  return [
+    'dj_normalizer' => [
+      'render element' => 'children',
+    ],
+  ];
+}

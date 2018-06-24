@@ -1,0 +1,21 @@
+uuid: 966bc1b4-4275-4e41-b431-5a65ec7fc178
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_difficulty
+    - node.type.jeopardy_clues
+  module:
+    - options
+id: node.jeopardy_clues.field_difficulty
+field_name: field_difficulty
+entity_type: node
+bundle: jeopardy_clues
+label: Difficulty
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_integer

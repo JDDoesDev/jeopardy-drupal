@@ -1,0 +1,9 @@
+uuid: e9bb356a-e93d-4d39-8bfc-82fde1b0edc4
+langcode: en
+status: true
+dependencies: {  }
+name: Categories
+vid: categories
+description: 'Categories for clues'
+hierarchy: 0
+weight: 0

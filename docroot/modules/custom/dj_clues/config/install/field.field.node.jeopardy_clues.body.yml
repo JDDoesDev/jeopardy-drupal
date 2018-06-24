@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.jeopardy_clues
+  module:
+    - text
+id: node.jeopardy_clues.body
+field_name: body
+entity_type: node
+bundle: jeopardy_clues
+label: Clue
+description: 'This is the clue that will be shown to the contestants'
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary

@@ -1,0 +1,29 @@
+uuid: 5da93ef3-1103-4302-8a41-21dc47224eb9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_category
+    - node.type.jeopardy_clues
+    - taxonomy.vocabulary.categories
+id: node.jeopardy_clues.field_category
+field_name: field_category
+entity_type: node
+bundle: jeopardy_clues
+label: Category
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      categories: categories
+    sort:
+      field: name
+      direction: asc
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference
