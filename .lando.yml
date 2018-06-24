@@ -1,4 +1,0 @@
-name: drupal-jeopardy
-recipe: drupal8
-config:
-  webroot: docroot
