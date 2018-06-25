@@ -1,0 +1,19 @@
+uuid: ef3af84b-1a36-4060-8915-3b3931298098
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_username
+    - node.type.jeopardy_clues
+id: node.jeopardy_clues.field_username
+field_name: field_username
+entity_type: node
+bundle: jeopardy_clues
+label: 'D.O Username (for credit)'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
