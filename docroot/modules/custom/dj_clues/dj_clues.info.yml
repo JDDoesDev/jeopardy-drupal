@@ -1,5 +1,15 @@
-name: Drupal Jeopardy Normalizer
+name: 'Drupal Jeopardy Normalizer'
 type: module
-description: Normalizer for Drupal Jeopardy JSON
+description: 'Normalizer for Drupal Jeopardy JSON'
 core: 8.x
 package: Custom
+mtime: 1529353580
+dependencies:
+  - node
+  - options
+  - rest
+  - serialization
+  - text
+  - user
+version: null
+php: 5.5.9
