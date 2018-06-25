@@ -27,7 +27,8 @@
         "drupal/kint": "^1.0",
         "drupal/bootstrap": "^3.5",
         "jddoesdev/ichabod_drupal": "dev-master",
-        "drupal/structure_sync": "^1.12"
+        "drupal/structure_sync": "^1.12",
+        "drupal/honeypot": "^1.27"
     },
     "require-dev": {
         "behat/mink": "~1.7",

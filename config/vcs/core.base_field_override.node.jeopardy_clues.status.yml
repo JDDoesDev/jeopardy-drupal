@@ -1,0 +1,22 @@
+uuid: 20e34435-6641-4120-911d-aefaea74ba16
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.jeopardy_clues
+id: node.jeopardy_clues.status
+field_name: status
+entity_type: node
+bundle: jeopardy_clues
+label: Published
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

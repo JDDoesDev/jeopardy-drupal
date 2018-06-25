@@ -11,7 +11,7 @@ entity_type: node
 bundle: jeopardy_clues
 label: Answer
 description: 'This is the answer, that should be in the form of a question, but don''t worry about the question making text.  Just what you feel is correct'
-required: false
+required: true
 translatable: false
 default_value: {  }
 default_value_callback: ''

@@ -1,0 +1,22 @@
+uuid: ceb668b3-789a-4eb2-995e-ef5687ac8574
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.jeopardy_clues
+id: node.jeopardy_clues.promote
+field_name: promote
+entity_type: node
+bundle: jeopardy_clues
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean
