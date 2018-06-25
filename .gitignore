@@ -8,6 +8,7 @@
 
 # Ignore Drupal's file directory
 /docroot/sites/*/files
+/docroot/sites/*/settings.php
 
 # Ignore SimpleTest multi-site environment.
 docroot/sites/simpletest
