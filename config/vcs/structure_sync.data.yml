@@ -1,0 +1,193 @@
+taxonomies:
+  categories:
+    -
+      vid: categories
+      tid: '1'
+      langcode: en
+      name: 'Back-end Antics'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: cbf9f575-5449-4db1-8ce3-5647c9243202
+    -
+      vid: categories
+      tid: '2'
+      langcode: en
+      name: 'Fiddling with the Front-end'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 76602218-6894-4e30-9d8d-1c6f09d2ed5e
+    -
+      vid: categories
+      tid: '3'
+      langcode: en
+      name: 'More Than One Way to Theme a Drupal'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9f6c9307-d8e6-4329-ae44-b8a690d7a7c7
+    -
+      vid: categories
+      tid: '4'
+      langcode: en
+      name: 'So You Think You Can Site Build'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: a274ca0b-2c46-43e2-a12c-272aec10e2e2
+    -
+      vid: categories
+      tid: '5'
+      langcode: en
+      name: 'My Favorite Contrib Module'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 8d89e430-4a73-4334-96b1-316351150349
+    -
+      vid: categories
+      tid: '6'
+      langcode: en
+      name: 'Getting Twiggy With It'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1c72ef6f-2c9c-492d-9725-db5eecf444ea
+    -
+      vid: categories
+      tid: '7'
+      langcode: en
+      name: Potpourri
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: f2505b84-25ab-4aa7-8e71-7aa2f026794a
+    -
+      vid: categories
+      tid: '8'
+      langcode: en
+      name: '"Hook", Line, and Sinker'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: c02e4025-ad85-4370-90e8-a0842eaa851c
+    -
+      vid: categories
+      tid: '9'
+      langcode: en
+      name: 'PHPeace Out!'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 5cbb3e0d-d409-4cf1-9960-1a04fccc7dee
+    -
+      vid: categories
+      tid: '10'
+      langcode: en
+      name: 'Cache Clear; Panic'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1f3d89c1-38b3-439b-aaf2-dbddd1d6e0a5
+    -
+      vid: categories
+      tid: '11'
+      langcode: en
+      name: 'What’s Drush got to do with it'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 562614dd-fb94-4fe6-bde2-98e223f602f5
+    -
+      vid: categories
+      tid: '12'
+      langcode: en
+      name: 'Un-Drupal Console-able'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 20bb0a82-a951-4192-81a1-2658f1633907
+    -
+      vid: categories
+      tid: '13'
+      langcode: en
+      name: 'Module-a Oblongata'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 723639a2-7e6e-415a-9b26-a0e8c8d87053
+    -
+      vid: categories
+      tid: '14'
+      langcode: en
+      name: 'Magnum aPI'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 4191ab44-9d39-4528-8fea-c7f8acae58da
+    -
+      vid: categories
+      tid: '15'
+      langcode: en
+      name: 'Variations on a Theme'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 9e28c9b0-513f-4fd5-a358-005567a23750
+    -
+      vid: categories
+      tid: '16'
+      langcode: en
+      name: 'Meta Takes on Meta-tags'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 90dc3fd7-887f-46eb-b482-b5be4b0eb241
+    -
+      vid: categories
+      tid: '17'
+      langcode: en
+      name: 'You Can''t Be SEO-rious!'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: d38261ef-00dd-4eef-b8b3-53a5caf6529f
+    -
+      vid: categories
+      tid: '18'
+      langcode: en
+      name: 'GIT it Right This Time'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 10a3981b-120d-4fa8-8558-2fe9de0018f7
+    -
+      vid: categories
+      tid: '19'
+      langcode: en
+      name: 'NaNNaNNaNNaN... JavaScript!'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1f51c72f-79a3-4ff5-937f-6df04407f01e
+  tags: {  }
