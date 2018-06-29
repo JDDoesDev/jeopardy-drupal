@@ -29,3 +29,4 @@ hidden:
   field_answer: true
   field_category: true
   field_difficulty: true
+  field_username: true

@@ -9,7 +9,7 @@ third_party_settings:
     available_menus:
       - main
     parent: 'main:'
-name: 'Jeopardy Clues'
+name: 'Drupaldy Clues'
 type: jeopardy_clues
 description: ''
 help: "Please choose the category that you'd like to submit for.  Clues should follow regular Jeopardy-style formats.  Concise, but enough to lead to a correct answer in the form of a question.\r\n\r\nExample:\r\n\r\nClue: When debugging an issue, this is often the first step to try.\r\n\r\nAnswer:  What is 'clearing the caches'?"
