@@ -12,8 +12,8 @@ field_name: field_difficulty
 entity_type: node
 bundle: jeopardy_clues
 label: Difficulty
-description: ''
-required: false
+description: 'Difficulty of the clue.  1 = Easiest, 5 = Most Difficult'
+required: true
 translatable: false
 default_value: {  }
 default_value_callback: ''

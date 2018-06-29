@@ -12,7 +12,7 @@ third_party_settings:
 name: 'Jeopardy Clues'
 type: jeopardy_clues
 description: ''
-help: ''
+help: "Please choose the category that you'd like to submit for.  Clues should follow regular Jeopardy-style formats.  Concise, but enough to lead to a correct answer in the form of a question.\r\n\r\nExample:\r\n\r\nClue: When debugging an issue, this is often the first step to try.\r\n\r\nAnswer:  What is 'clearing the caches'?"
 new_revision: true
 preview_mode: 1
 display_submitted: true
