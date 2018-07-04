@@ -5,14 +5,19 @@ _core:
 favicon:
   mimetype: image/vnd.microsoft.icon
   path: ''
-  url: ''
+  url: 'https://dorfs.website/themes/contrib/bootstrap/favicon.ico'
   use_default: true
+logo:
+  path: ''
+  url: ''
+  use_default: false
+navbar_inverse: 1
+navbar_position: static-top
+fluid_container: 0
+table_responsive: '-1'
+table: ''
 features:
   comment_user_picture: true
   comment_user_verification: true
   favicon: true
   node_user_picture: true
-logo:
-  path: ''
-  url: ''
-  use_default: true

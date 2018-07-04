@@ -3,12 +3,19 @@ langcode: en
 status: true
 dependencies:
   module:
+    - entity_redirect
     - menu_ui
 third_party_settings:
   menu_ui:
     available_menus:
       - main
     parent: 'main:'
+  entity_redirect:
+    destination: url
+    url: /thank-you
+    personalizable: true
+    redirect_edit: false
+    external: ''
 name: 'Drupaldy Clues'
 type: jeopardy_clues
 description: ''

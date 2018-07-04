@@ -5,7 +5,7 @@ slogan: ''
 page:
   403: ''
   404: ''
-  front: /node/add/jeopardy_clues
+  front: /node/14
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
